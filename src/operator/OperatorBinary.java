@@ -6,7 +6,7 @@ public class OperatorBinary {
     //menempatkan nilai kedalam variable
     //baris 5-7 adalah comment/komentar yang tidak dijalankan oleh program
 
-    String nama = "Achmad Wira";
+    String nama = "Muhammad Aji Sya'bandi";
     int jumlahSks = 24;
     double indeksPrestasiKumulatif = 3.91;
 }
